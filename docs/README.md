@@ -3,7 +3,7 @@
 ### Esse repositório está disponível para ser usado de exemplo em como e onde instalar os blocos da yourviews em sua loja dentro da VTEX IO
 
 ## Tutorial
-Siga nossa documentação disponível no HELP: !https://help.hiplatform.com/docs/instalacao-na-loja
+Siga nossa documentação disponível no HELP: https://help.hiplatform.com/docs/instalacao-na-loja
 
 1 - Instale o app yourviews.yourviewsreviews
 2 - Instale o app vtex.seller-selector (https://developers.vtex.com/docs/guides/vtex-seller-selector)
