@@ -4,8 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Preview
-![store-theme-default](![image](https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/assets/97966769/c7fb76ae-3fe8-427d-8ef1-02376502bd1c)
-)
+![store-theme-default](https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/assets/97966769/c7fb76ae-3fe8-427d-8ef1-02376502bd1c)
 
 ## Tutorial
 To understand how things work check our tutorial [Build a store using VTEX IO](https://vtex.io/docs/getting-started/build-stores-with-store-framework/1/)
