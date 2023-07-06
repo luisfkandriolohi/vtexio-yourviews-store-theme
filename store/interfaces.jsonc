@@ -1,0 +1,10 @@
+{
+  "seller-stars": {
+    "component":"SellerStars",
+    "composition": "children"
+  },
+  "seller-page":{
+    "component": "SellerPage",
+    "composition": "children"
+  }
+}
