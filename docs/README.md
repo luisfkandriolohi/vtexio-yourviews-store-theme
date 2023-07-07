@@ -20,8 +20,7 @@ estrelas do sumario do produto, estrelas do lojista no sumario do produto e estr
 - ProductRatingSummary / Estrelas de sumário de produto: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/pdp/product.jsonc#L105)
 - ProductRatingInline / Estrelas de prateleira/vitrine dos produtos: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/product-summary/product-summary.jsonc#L18)
 - Testimonials / Testemunhos: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/home/home.jsonc#L15)
-
-### Manifest JSON: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/manifest.json#L71)
+- Manifest JSON: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/manifest.json#L71)
 
 ## Previews
 
