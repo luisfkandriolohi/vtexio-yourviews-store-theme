@@ -13,6 +13,16 @@ Siga nossa documentação disponível no HELP: https://help.hiplatform.com/docs/
 estrelas do sumario do produto, estrelas do lojista no sumario do produto e estrelas de infos do lojista.
 - 6 Pronto!
 
+## Blocos
+
+- Reviews / Avaliações: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/pdp/product.jsonc#L11C7-L11C7)
+- Perguntas&Respostas / QA: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/pdp/product.jsonc#L12)
+- ProductRatingSummary / Estrelas de sumário de produto: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/pdp/product.jsonc#L105)
+- ProductRatingInline / Estrelas de prateleira/vitrine dos produtos: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/product-summary/product-summary.jsonc#L18)
+- Testimonials / Testemunhos: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/store/blocks/home/home.jsonc#L15)
+
+### Manifest JSON: (https://github.com/luisfkandriolohi/vtexio-yourviews-store-theme-default/blob/main/manifest.json#L71)
+
 ## Previews
 
 ### Preview Home Page
