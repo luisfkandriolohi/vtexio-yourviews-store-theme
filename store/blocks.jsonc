@@ -32,7 +32,7 @@
   },
 
   "store.product-review-form": {
-    "blocks": ["product-review-form"]
+    "blocks": ["yv-product-review-form"]
   },
 
   "store.not-found#product": {

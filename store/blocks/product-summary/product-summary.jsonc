@@ -15,7 +15,9 @@
     "props": {
       "blockClass": "productRating"
     },
-    "children": ["product-rating-inline"]
+    "children": [
+      "yv-product-rating-inline"
+    ]
   },
 
   "stack-layout#prodsum": {
