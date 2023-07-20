@@ -65,7 +65,8 @@
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x",
     "vtex.seller-selector": "0.x",
-    "vtex.product-context": "0.x"
+    "vtex.product-context": "0.x",
+    "vtex.store-theme": "5.1.0"
   },
   "peerDependencies": {
     "yourviews.yourviewsreviews": "1.x"
