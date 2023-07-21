@@ -16,7 +16,7 @@
       "blockClass": "productRating"
     },
     "children": [
-      "product-rating-inline"
+      "yv-product-rating-inline"
     ]
   },
 
