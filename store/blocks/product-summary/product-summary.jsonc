@@ -15,9 +15,7 @@
     "props": {
       "blockClass": "productRating"
     },
-    "children": [
-      "yv-product-rating-inline"
-    ]
+    "children": ["product-rating-inline"]
   },
 
   "stack-layout#prodsum": {
@@ -83,9 +81,7 @@
   },
   "product-price-savings#summary": {
     "props": {
-      "markers": [
-        "discount"
-      ],
+      "markers": ["discount"],
       "blockClass": "summary"
     }
   }
