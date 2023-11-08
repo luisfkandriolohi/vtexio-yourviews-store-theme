@@ -3,16 +3,16 @@
     "children": [
       "flex-layout.row#product-breadcrumb",
       "condition-layout.product#availability",
-      "link-seller",
       "flex-layout.row#description",
       "flex-layout.row#specifications-title",
       "product-specification-group#table",
       "shelf.relatedProducts",
-      "product-reviews",
-      "product-questions-and-answers",
+      "yv-product-reviews",
+      "yv-product-questions-and-answers",
       "flex-layout.row#shelf"
     ]
   },
+
   "flex-layout.row#specifications-title": {
     "children": ["rich-text#specifications"]
   },
@@ -102,7 +102,7 @@
     },
     "children": [
       "flex-layout.row#product-name",
-      "product-rating-summary",
+      "yv-product-rating-summary",
       "flex-layout.row#list-price-savings",
       "flex-layout.row#selling-price",
       "product-installments",
@@ -112,11 +112,35 @@
       "product-quantity",
       "product-assembly-options",
       "product-gifts",
-      "flex-layout.row#buy-button",
       "availability-subscriber",
       "shipping-simulator",
+      "seller-table",
       "share#default"
     ]
+  },
+
+  "seller-table": {
+    "children": ["seller-body"]
+  },
+
+  "seller-body": {
+    "children": ["seller-row"]
+  },
+
+  "seller-row": {
+    "children": [
+      "seller-stars",
+      "seller-price",
+      "seller-shipping",
+      "buy-button"
+    ]
+  },
+
+  "seller-stars": {
+    "props": {
+      "Stars": "product-seller-rating-inline",
+      "SellerInfos": "product-seller-infos"
+    }
   },
 
   "flex-layout.row#product-name": {
